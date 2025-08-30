@@ -1,0 +1,40 @@
+Gender 
+    0 - Female
+    1 - Male
+
+family_history_with_overweight
+    0 - no
+    1 - yes 
+FAVC
+    0 - no
+    1 - yes 
+CAEC
+    0 - no
+    1 - Sometimes
+    2 - Frequently
+    3 - Always
+SMOKE
+    0 - no
+    1 - yes 
+SCC
+    0 - no
+    1 - yes
+CALC
+    0 - no
+    1 - Sometimes
+    2 - Frequently
+    3 - Always
+MTRANS
+    0 - Walking
+    1 - Public_Transportation
+    2 - Automobile
+    3 - Motorbike
+    4 - Bike
+NObeyesdad
+    0 - Insufficient_Weight
+    1 - Normal_Weight
+    2 - Overweight_Level_I
+    3 - Overweight_Level_II
+    4 - Obesity_Type_I
+    5 - Obesity_Type_II
+    6 - Obesity_Type_III
